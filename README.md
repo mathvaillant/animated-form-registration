@@ -1,2 +1,2 @@
-#Animated form Registration
-#Made with Vanilla JavaScript and CSS3 
+##Animated form Registration
+###Made with Vanilla JavaScript and CSS3 
